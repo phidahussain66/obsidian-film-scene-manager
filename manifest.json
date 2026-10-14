@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-film-scene-manager",
+  "name": "Scene Manager",
+  "version": "1.6.0",
+  "minAppVersion": "1.0.0",
+  "description": "An Obsidian plugin to manage film scenes, shooting schedules, and shot lists.",
+  "author": "Fida Hussain",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
